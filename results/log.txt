@@ -1,0 +1,214 @@
+inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-CL_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_1_bs2000
+AP:57.35,AF:-3.83
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_1_bs2000
+AP:73.08,AF:-3.04
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_1_bs2000
+AP:78.39,AF:-15.39
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_2_bs2000
+AP:86.49,AF:-5.1
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_Reddit-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_1_bs2000
+AP:95.01,AF:-5.9
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_1_bs2000
+AP:62.19,AF:-31.68
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_1_bs2000
+AP:57.89,AF:-1.62
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1_bs2000
+AP:61.93,AF:1.4
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.52,AF:-5.75
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_twp_[10000.0, 10000.0, 0.01]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:71.69,AF:-2.3
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:85.84,AF:-6.94
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:85.84,AF:-6.94
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.52,AF:-5.75
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ewc_[10000.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:74.58,AF:5.09
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_joint_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:90.18,AF:2.9
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:63.87,AF:-13.29
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:63.87,AF:-13.29
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:63.87,AF:-13.29
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.61,AF:-6.76
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.61,AF:-6.76
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:67.35,AF:-7.9
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[1000, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:74.49,AF:-7.14
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.61,AF:-6.76
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.59,AF:-6.85
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.59,AF:-6.85
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.59,AF:-6.85
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.59,AF:-6.85
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.59,AF:-6.85
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.59,AF:-6.85
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:86.45,AF:-6.35
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:86.45,AF:-6.35
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:68.59,AF:-6.85
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1
+AP:86.45,AF:-6.35
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:83.9,AF:-7.92
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:90.25,AF:5.81
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:81.3,AF:-7.6
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:84.08,AF:-4.04
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:86.45,AF:-6.35
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:85.19,AF:-7.15
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:90.66,AF:7.1
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:81.47,AF:-5.48
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:84.09,AF:-4.41
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:68.44,AF:-7.13
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[1000, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_2
+AP:67.81,AF:-6.34
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_1
+AP:92.33,AF:3.06
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[1000, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_1
+AP:89.15,AF:-3.5
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1_Aug:1
+AP:85.19,AF:-7.15
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1_Aug:1
+AP:84.18,AF:2.36
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1_Aug:1
+AP:85.75,AF:0.33
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1_Aug:1
+AP:83.12,AF:-6.8
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_100_1_Aug:1
+AP:80.37,AF:-15.95
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_100_1_Aug:1
+AP:66.69,AF:-29.29
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_100_1_Aug:1
+AP:87.44,AF:-6.55
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_100_1_Aug:1
+AP:73.55,AF:-20.73
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_4_Aug:0
+AP:72.56,AF:-1.99
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_4_Aug:0
+AP:72.46,AF:-2.53
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_4_Aug:0
+AP:72.75,AF:-10.19
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_4_Aug:0
+AP:70.61,AF:-0.95
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:77.6,AF:-16.56
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ewc_[10000.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:81.21,AF:-12.03
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:66.05,AF:-8.2
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:67.04,AF:-28.26
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_ewc_[10000.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:66.17,AF:-7.4
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:80.21,AF:-4.71
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:64.81,AF:-29.81
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:82.5,AF:-1.23
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:66.48,AF:-6.3
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:66.42,AF:-29.48
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:83.48,AF:0.26
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:78.55,AF:-16.22
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_twp_[10000.0, 10000.0, 0.01]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:80.42,AF:-3.88
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:62.41,AF:-35.19
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:84.73,AF:2.19
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_ergnn_[1000, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:85.1,AF:2.76
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_1_Aug:1
+AP:51.44,AF:-0.4
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_twp_[10000.0, 10000.0, 0.01]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:89.98,AF:-0.21
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_2_Aug:1
+AP:51.44,AF:-0.4
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:80.21,AF:-4.71
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:82.5,AF:-1.23
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:90.62,AF:-0.75
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:67.8,AF:-4.95
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:83.48,AF:0.26
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[1000, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:89.95,AF:0.4
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_1_2_Aug:1
+AP:51.44,AF:-0.4
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:66.67,AF:-28.81
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:62.1,AF:-33.2
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:66.22,AF:-29.72
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:0
+AP:62.2,AF:-35.45
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ewc_[10000.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:64.42,AF:-32.66
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:67.99,AF:-26.34
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:83.45,AF:-9.96
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_ewc_[10000.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:82.89,AF:-3.36
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:67.87,AF:-29.9
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[1.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:83.02,AF:-2.78
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:86.46,AF:-9.65
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[10.0, 2.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:84.3,AF:1.84
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:73.03,AF:-21.69
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[1.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:76.38,AF:-10.0
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_twp_[10000.0, 10000.0, 0.01]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:92.77,AF:-0.19
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:91.92,AF:1.4
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_lwf_[10.0, 20.0]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:83.82,AF:0.09
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_CoraFull-sub_2_ergnn_[1000, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:89.92,AF:-2.68
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_twp_[10000.0, 10000.0, 0.01]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:82.94,AF:-1.47
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_ergnn_[100, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:83.96,AF:0.41
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_ergnn_[1000, 0.5, 'CM']_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_200_5_Aug:1
+AP:85.37,AF:3.53
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1_Aug:0
+AP:54.74,AF:2.51
+no_inter_task_edges/tsk_IL/train_ratio_0.6/val_citeseer_2_bare_[None]_GCN_{'h_dims': [256], 'dropout': 0.0, 'batch_norm': False}_True_True_2_1_Aug:0
+AP:54.74,AF:2.51
